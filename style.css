@@ -15,6 +15,12 @@
     border-radius: 50%;
 }
 
+@media (max-width:700px) {
+    .header img{
+        margin-top: 20%;
+
+    }
+}
 .user-name h2 {
     color: rgb(255, 255, 255);
 }
